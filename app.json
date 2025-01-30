@@ -19,7 +19,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.matheusunkamed.trackfront"
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -29,6 +30,12 @@
         "projectId": "8bc0c241-8008-474f-ad40-dfe8a8d4f17e"
       }
     },
-    "owner": "matheusunkamed"
+    "owner": "matheusunkamed",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/8bc0c241-8008-474f-ad40-dfe8a8d4f17e"
+    }
   }
 }
