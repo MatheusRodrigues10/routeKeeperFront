@@ -69,7 +69,7 @@ O projeto contém uma pasta `hooks/` para armazenar hooks reutilizáveis, facili
 Você pode testar o RouteKeeper diretamente no **Expo Go**, sem precisar clonar ou instalar o projeto.
 
 🔗 **Acesse o app aqui:**  
-[Expo RouteKeeper](https://expo.dev/accounts/matheusunkamed/projects/track-front)
+[Expo RouteKeeper](https://expo.dev/preview/update?message=Initial%20commit&updateRuntimeVersion=1.0.0&createdAt=2025-01-30T00%3A59%3A15.573Z&slug=exp&projectId=8bc0c241-8008-474f-ad40-dfe8a8d4f17e&group=36b2dab2-7931-42c8-929b-bd36d0c35db4)
 
 📲 **Como testar?**  
 1. Baixe o **Expo Go** na Play Store ou App Store.  
