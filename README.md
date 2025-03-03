@@ -1,7 +1,7 @@
-## 📌 Visão Geral - RouteKeeper
+##  Visão Geral - RouteKeeper
 RouteKeeper é um aplicativo de rastreamento de rotas desenvolvido em **React Native** utilizando **Expo**. O app permite que os usuários registrem e acompanhem suas rotas, armazenando os dados de localização em um backend seguro.
 
-## 🚀 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 - **React Native** com Expo
 - **React Navigation** para gerenciamento de rotas
 - **Context API** para gerenciamento de estado
@@ -9,7 +9,7 @@ RouteKeeper é um aplicativo de rastreamento de rotas desenvolvido em **React Na
 - **React Native Maps** para exibição de mapas
 - **JWT Authentication** para login seguro
 
-## 💂️ Estrutura do Projeto
+## Estrutura do Projeto
 ```
 track-front/
 │-- src/
@@ -22,7 +22,7 @@ track-front/
 │-- package.json       # Dependências do projeto
 ```
 
-## 🔧 Configuração do Ambiente
+##  Configuração do Ambiente
 1. **Instale o Node.js** (se ainda não tiver instalado):
    - [Download Node.js](https://nodejs.org/)
 
@@ -47,36 +47,36 @@ track-front/
    npx expo start
    ```
 
-## 📱 Como Testar no Celular
+## Como Testar no Celular
 1. **Baixe o Expo Go** na Play Store ou App Store.
 2. **Escaneie o QR Code** gerado pelo comando `npx expo start`.
 3. O app será carregado no seu celular sem precisar de build!
 
-## 📌 Funcionalidades Principais
-### 🔑 Autenticação
+## Funcionalidades Principais
+### Autenticação
 - Login e Cadastro de usuários com JWT.
 - Suporte a modo demonstração.
 
-### 🛪️ Rastreamento de Rotas
+### Rastreamento de Rotas
 - Registro de rotas em tempo real.
 - Armazenamento de históricos de rotas.
 - Visualização de mapas interativos.
 
-## 📌 Hooks Personalizados
+## Hooks Personalizados
 O projeto contém uma pasta `hooks/` para armazenar hooks reutilizáveis, facilitando a separação de lógica e organização do código.
 
-## 🔗 Teste o App no Expo (sem necessidade de instalação)
+## Teste o App no Expo (sem necessidade de instalação)
 Você pode testar o RouteKeeper diretamente no **Expo Go**, sem precisar clonar ou instalar o projeto.
 
-🔗 **Acesse o app aqui:**  
+ **Acesse o app aqui:**  
 [Expo RouteKeeper](https://expo.dev/preview/update?message=Initial%20commit&updateRuntimeVersion=1.0.0&createdAt=2025-01-30T00%3A59%3A15.573Z&slug=exp&projectId=8bc0c241-8008-474f-ad40-dfe8a8d4f17e&group=36b2dab2-7931-42c8-929b-bd36d0c35db4)
 
-📲 **Como testar?**  
+ **Como testar?**  
 1. Baixe o **Expo Go** na Play Store ou App Store.  
 2. Acesse o link acima ou escaneie o QR Code gerado pelo Expo.  
 3. O app abrirá automaticamente no seu dispositivo!  
 
-## 📞 Contato
+## Contato
 Caso tenha dúvidas ou sugestões, entre em contato pelo GitHub:
 [MatheusRodrigues10](https://github.com/MatheusRodrigues10)
 
